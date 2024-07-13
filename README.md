@@ -13,3 +13,5 @@
    4) create a usecontext api and give contract address
    5) add some frontend
    6) and just do npm run build for hosting
+# Video Demo
+ [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/z7520F44RNY)
