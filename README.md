@@ -14,4 +14,4 @@
    5) add some frontend
    6) and just do npm run build for hosting
 # Video Demo
- [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/z7520F44RNY)
+ [![Watch the video](https://iili.io/dBCH9GS.png)](https://youtu.be/z7520F44RNY)
